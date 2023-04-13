@@ -1,3 +1,10 @@
+/**
+ * Serviço responsável por executar as operações da
+ * calculadora.
+ *
+ * @author Jean Borges Dares<jeanborgesdares@gmail.com>
+ * @since 1.0.0
+ */
 import { Injectable } from '@angular/core';
 
 @Injectable({
